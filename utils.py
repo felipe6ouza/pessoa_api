@@ -35,9 +35,9 @@ def consulta_usuarios():
     print(usuarios)
 
 if __name__ == '__main__':
-    #insere_pessoa('Jorel', 33)
-    #remove_pessoa('John Doe')
-    #edita_pessoa('Jorel', 'Nico')
-    insere_usuario('felipe221b', '111')
-    #consulta_pessoas()
+    #insere_pessoa()
+    #remove_pessoa()
+    #edita_pessoa()
+    #insere_usuario()
+    consulta_pessoas()
     consulta_usuarios()
